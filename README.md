@@ -1,12 +1,12 @@
 # My Projects #
 
-## Natasha ##
+## [Natasha](http://s4chin.github.io/Natasha/) ##
 A Python clone of Hike's Natasha bot.
 
-## Katpy ##
+## [Katpy](http://s4chin.github.io/Katpy/) ##
 A Python API for kickass torrents.
 
-## soundcloudInstant ##
+## [soundcloudInstant](http://s4chin.github.io/soundcloudInstant) ##
 Soundcloud instant search and play.
 
 ## Markapad ##
